@@ -50,49 +50,49 @@ Dokumentasi Pemograman Web Semester 3
 
 1. Membuat Paragraf
 
-    Penjelasan: Langkah ini bertujuan untuk mempelajari cara membuat dan menampilkan paragraf pada halaman HTML menggunakan tag <p>. Tag <p> secara otomatis memberikan jarak antar-paragraf pada tampilan browser.   
+    Penjelasan: Langkah ini bertujuan untuk mempelajari cara membuat dan menampilkan paragraf pada halaman HTML menggunakan tag p. Tag p secara otomatis memberikan jarak antar-paragraf pada tampilan browser.   
 
     Screenshot:
     (![](<images/Screenshot from 2026-09-23 20-04-03.png>))
 
 2. Menambahkan Judul
 
-    Penjelasan: Pada langkah ini, digunakan tag heading (<h1> sampai <h6>) untuk membuat judul dan subjudul pada halaman web. <h1> digunakan sebagai judul utama, sedangkan <h2> digunakan untuk subjudul.   
+    Penjelasan: Pada langkah ini, digunakan tag heading (h1 sampai h6) untuk membuat judul dan subjudul pada halaman web. h1 digunakan sebagai judul utama, sedangkan h2 digunakan untuk subjudul.   
 
     Screenshot:
     (![](<images/Screenshot from 2026-09-23 20-07-35.png>))
 
 3. Memformat Teks
 
-    Penjelasan: Langkah ini mencakup pengujian berbagai tag pemformatan teks, seperti <b> atau <strong> untuk cetak tebal, <i> atau <em> untuk cetak miring, <mark> untuk penanda (highlight), <sub> untuk subscript (misal: H₂O), dan <sup> untuk superscript (misal: x²).   
+    Penjelasan: Langkah ini mencakup pengujian berbagai tag pemformatan teks, seperti (b) atau (strong) untuk cetak tebal, (i) atau (em) untuk cetak miring, (mark) untuk penanda (highlight), (sub) untuk subscript (misal: H₂O), dan (sup) untuk superscript (misal: x²).   
 
     Screenshot:
     (![](<images/Screenshot from 2026-09-23 20-11-15.png>))
 
 4. Menyisipkan Gambar
 
-    Penjelasan: Langkah ini melakukan penyisipan gambar ke halaman web menggunakan tag <img> dengan atribut src untuk menentukan jalur file gambar dan atribut alt sebagai deskripsi pengganti gambar.   
+    Penjelasan: Langkah ini melakukan penyisipan gambar ke halaman web menggunakan tag img dengan atribut src untuk menentukan jalur file gambar dan atribut alt sebagai deskripsi pengganti gambar.   
 
     Screenshot:
     (![](<images/Screenshot from 2026-09-23 20-29-46.png>))
 
 5. Mengatur Ukuran Gambar
 
-    Penjelasan: Mengatur dimensi dan proporsi gambar pada halaman web dengan menerapkan atribut width (lebar) dan height (tinggi) pada tag <img>.   
+    Penjelasan: Mengatur dimensi dan proporsi gambar pada halaman web dengan menerapkan atribut width (lebar) dan height (tinggi) pada tag img.   
 
     Screenshot:
     (![](<images/Screenshot from 2026-09-23 20-32-46.png>))
 
 6. Menambahkan Hyperlink
 
-    Penjelasan: Membuat navigasi halaman menggunakan tag <a> dengan atribut href. Pengujian dilakukan untuk hyperlink internal (menghubungkan index.html dengan halaman2.html) dan hyperlink eksternal (mengarah ke situs luar seperti Google).   
+    Penjelasan: Membuat navigasi halaman menggunakan tag a dengan atribut href. Pengujian dilakukan untuk hyperlink internal (menghubungkan index.html dengan halaman2.html) dan hyperlink eksternal (mengarah ke situs luar seperti Google).   
 
     Screenshot:
     (![](<images/Screenshot from 2026-09-24 11-32-57.png>))
 
 7. Menambahkan List
 
-    Penjelasan: Menampilkan daftar informasi dalam bentuk poin-poin menggunakan unordered list (<ul>) untuk daftar tak berurutan, serta ordered list (<ol>) untuk daftar berurutan berangka.   
+    Penjelasan: Menampilkan daftar informasi dalam bentuk poin-poin menggunakan unordered list (ul) untuk daftar tak berurutan, serta ordered list (ol) untuk daftar berurutan berangka.   
 
     Screenshot:
     (![](<images/Screenshot from 2026-09-23 20-39-02.png>))
